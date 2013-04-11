@@ -19,3 +19,18 @@ revisions[#revisions + 1] = {
 revisions[#revisions + 1] = {
   sha = "2778195d77b254d9947a5dd66e1161c179018f99"
 }
+revisions[#revisions + 1] = {
+  sha = "cb843dc9d66a7dc0f0cee39dacfc64e380e902ad",
+  "GET dark",
+  "GET +--special",
+  "GET functions",
+  "GET screen"
+}
+revisions[#revisions + 1] = {
+  sha = "6f5ff4d5734bfb26d71a86407b9b3645ba75c987",
+  "GET README.md",
+  "GET dark",
+  "GET +--special",
+  "GET functions",
+  "GET screen"
+}
