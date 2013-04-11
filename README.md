@@ -1,4 +1,4 @@
-thefarm
+farmbbs
 =======
 
-ComputerCraft scripts for The Farm
+The Farm info board system

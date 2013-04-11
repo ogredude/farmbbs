@@ -10,3 +10,10 @@ revisions[#revisions + 1] = {
   "REM ---a/screens/row1-4.screen",
   "GET +++b/screens/row1-4.screen"
 }
+revisions[#revisions + 1] = {
+  sha = "2740d660c8fc173f3f875374edc1fea53681b3a8",
+  "REM ---a/README.md",
+  "GET +++b/README.md",
+  "REM ---a/screens/row1-4.screen",
+  "GET +++b/screens/row1-4.screen"
+}
