@@ -1,0 +1,34 @@
+           ______    _______  _     _  _______    ____          _   ___  ___  
+          |    _ |  |       || | _ | ||       |  |    |        | | |   ||   | 
+          |   | ||  |   _   || || || ||  _____|   |   |  ____  | |_|   ||___| 
+          |   |_||_ |  | |  ||       || |_____    |   | |____| |       | ___  
+          |    __  ||  |_|  ||       ||_____  |   |   |        |___    ||   | 
+          |   |  | ||       ||   _   | _____| |   |   |            |   ||___| 
+          |___|  |_||_______||__| |__||_______|   |___|            |___|
+
+
+    +-----------------------+-------------------+-------------+---------------+
+    |          1A           |        1B         |     2A      |      2B       |
+    +-----------------------+-------------------+-------------+---------------+
+    | Cobble Stairs         | Cobble Slab       | Stone       | Cobble        |
+    | Stone Brick Stairs    | Stone Brick Slab  | Redrock     | Red Cobble    |
+    | Red Cobble Stairs     | Red Cobble Slab   | Basalt      | Basalt Cobble |
+    | Red Rock Brick Stairs | Red Rock Slab     | Sandstone   | Sand          |
+    | Nether Brick Stairs   | Nether Brick Slab | Soul Sand   | Netherrack    |
+    | Brick Stairs          | Brick Slab        | Grass Block | Mossy Cobble  |
+    | Sandstone Stairs      | Sandstone Slab    | Dirt        | Gravel        |
+    | Red Rock Slab         | Stone Slab        | Obsidian    | Marble        |
+    +-----------------------+-------------------+-------------+---------------+
+
++-----------------------+------------------+--------------+-------------------------+
+|          3A           |        3B        |      4A      |           4B            |
++-----------------------+------------------+--------------+-------------------------+
+| Chiseled Brick        | Stone Brick      | Fence        | Cobble Wall             |
+| Cracked Brick         | Mossy Brick      | Fence Gate   | Stone Brick Wall        |
+| Chiseled Basalt Brick | Basalt Brick     | Nether Fence | Red Cobble Wall         |
+| Nether Brick          | Obsidian Tile    |              | Obsidian Wall           |
+| Brick                 | Marble Brick     |              | Sandstone Wall          |
+| Chiseled Sandstone    | Smooth Sandstone |              | Smooth Sandstone Wall   |
+| Red Rock Brick        | Basalt Paver     |              | Chiseled Sandstone Wall |
+|                       |                  |              | Brick Wall              |
++-----------------------+------------------+--------------+-------------------------+
