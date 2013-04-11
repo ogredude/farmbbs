@@ -34,3 +34,12 @@ revisions[#revisions + 1] = {
   "GET functions",
   "GET screen"
 }
+revisions[#revisions + 1] = {
+  sha = "8a2eee15125369fa35583048b4c67fb05b178d57",
+  "GET dark",
+  "GET +--special",
+  "GET functions",
+  "GET screen",
+  "REM screens/row1-4.screen",
+  "GET screens/row1_4.screen"
+}
