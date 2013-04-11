@@ -15,8 +15,7 @@ revisions[#revisions + 1] = {
   "REM screens/row1-4.screen",
   "GET screens/row1-4.screen"
 }
+
 revisions[#revisions + 1] = {
-  sha = "6099dee2f5e5d438908c3127b38a7f06bb3e2937",
-  "REM ---a/README.md",
-  "GET +++b/README.md"
+  sha = "2778195d77b254d9947a5dd66e1161c179018f99"
 }
